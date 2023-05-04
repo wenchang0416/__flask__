@@ -1,2 +1,3 @@
 # __FLASK__
-## render dashboard
+## WSGI(render dashboard)
+### requirements.txt(不同於vsCode)
